@@ -13,7 +13,7 @@ My local app
 
 ``localhost:3000``
 
-Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
+Displays a simple Homepage displaying a Sparta logo and message. This page should return a 200 response.
 
 ### Blog
 
