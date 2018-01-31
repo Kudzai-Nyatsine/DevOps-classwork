@@ -6,7 +6,7 @@ This app is intended for use with the Sparta Global Devops Stream as a sample ap
 
 To use the repo within your course you should fork it.
 
-The app is a node  with three pages..
+The app is a node  with three pages.
 My local app
 
 ### Homepage
