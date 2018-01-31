@@ -9,7 +9,7 @@ To use the repo within your course you should fork it.
 The app is a node  with three pages.
 My local app
 
-### Homepage
+### Homepage1
 
 ``localhost:3000``
 
