@@ -1,1 +1,2 @@
-app/nodue_modules/*
+./app/nodue_modules
+./cookbooks
