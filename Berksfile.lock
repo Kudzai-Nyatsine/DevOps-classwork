@@ -1,0 +1,11 @@
+DEPENDENCIES
+  db
+    git: git@github.com:Kudzai-Nyatsine/cookbook-db.git
+    revision: b1ebfd252cdbb8feb972e344ed5f1cdee946157e
+  node
+    git: git@github.com:Kudzai-Nyatsine/cookbook-node.git
+    revision: c5378006546a2537d4c5ebce7d8632b6f635eaeb
+
+GRAPH
+  db (0.1.0)
+  node (0.1.0)
