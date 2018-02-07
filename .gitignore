@@ -1,2 +1,3 @@
 ./app/nodue_modules
 ./cookbooks
+./Berksfile.lock
