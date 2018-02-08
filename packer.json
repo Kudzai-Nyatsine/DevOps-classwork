@@ -22,10 +22,7 @@
     "ami_name": "kudzai-app {{timestamp}}"
   }],
   "provisioners":[
-    {
-      "type":"shell",
-      "inline": ["mkdir /home/ubuntu/app"]
-    },
+   
     {
       "type": "file",
       "source":"app",
